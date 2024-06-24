@@ -1,9 +1,8 @@
 # Learning Log
 
 A full-stack web application that allows users to log their learning activities, create topics, and add entries under each topic. Built using Django for the backend and Bootstrap for the frontend.
-
-![learning log2](https://github.com/Oluwadhara/learning_log/assets/99046185/8e6b10a7-e585-46d7-a219-6faa3aeac53f)
 ![learning log](https://github.com/Oluwadhara/learning_log/assets/99046185/2e7a64ee-a296-498b-88d4-8c3e1ffc4841)
+![learning log2](https://github.com/Oluwadhara/learning_log/assets/99046185/8e6b10a7-e585-46d7-a219-6faa3aeac53f)
 
 ## Features
 
